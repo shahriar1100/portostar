@@ -1,0 +1,820 @@
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* nav part start */
+  /* nav part end */
+
+  /* banner part start */
+  .bannerPartLeft {
+    padding-top: 60px;
+    text-align: left;
+    padding-bottom: 25px;
+  }
+  .bannerPartLeft h1 {
+    font-size: 44px;
+    line-height: 64px;
+    color: #333333;
+    font-weight: 700;
+    padding: 0;
+  }
+  .bannerPartLeft a {
+    margin-top: 15px;
+  }
+  .bannerPartRight img {
+    width: 100%;
+  }
+  /* banner part end */
+
+  /* counter part ok */
+  /* counter part ok */
+
+  /* service part start */
+  #servicesPart {
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  .serviceText h2 {
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.5%;
+    font-weight: 600;
+  }
+  .serviceText p {
+    padding: 0 150px;
+  }
+  .servicesItem {
+    margin-bottom: 30px;
+  }
+  /* service part end */
+
+  /* experience part start */
+  #experience {
+    padding: 70px 0;
+  }
+  .experienceText {
+    text-align: left;
+  }
+  .experienceText h2 {
+    width: 350px;
+  }
+  .experienceText p {
+    padding: 0 60px 15px 0px;
+    width: 650px;
+  }
+  /* experience part end */
+
+  /* clintPart start */
+  #clintPart {
+    margin-top: 0;
+  }
+  #clintPart .container .row .col-lg-3 img {
+    width: 150px;
+    margin-left: 30px;
+  }
+  .clintPartImg {
+    padding-bottom: 20px;
+  }
+  #clintPart {
+    margin: 50px 0;
+  }
+  /* clintPart end */
+
+  /* portfolio part start */
+  .portfolioPartLeft {
+    text-align: left;
+  }
+  .portfolioPartLeft h2 {
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+  }
+  .portfolioPartRight p {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.534);
+    font-weight: 400;
+    line-height: 32px;
+    text-align: right;
+    padding-left: 0;
+    width: 100%;
+  }
+  .portfolioPartItem {
+    padding: 0;
+  }
+  /* portfolio part end */
+
+  /* rating part start */
+  .ratingPart {
+    margin-top: 20px;
+  }
+  .ratingPartText {
+    margin: 0;
+    padding-top: 80px;
+  }
+  .ratingPartText p{
+    width: 80%;
+    margin: 0 auto;
+  }
+  .ratingPartItem {
+    padding: 25px;
+  }
+  .authorName {
+    padding: 0;
+  }
+  .authorName h5 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .authorName h6 {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .ratingPartItem {
+    margin-bottom: 30px;
+  }
+  .ratingPartText h2 {
+    font-size: 34px;
+  }
+  /* rating part end */
+
+   /* connectPart part start */
+  .connectPart {
+    padding: 50px 0;
+    margin: 0;
+  }
+  .connectPart h2 {
+    font-size: 38px;
+    line-height: 52px;
+    font-weight: 600;
+    width: 60%;
+  }
+  /* connectPart part end */
+    /* footer part start */
+  #footer {
+    width: 95%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .footerPartLeft p {
+    width: 280px;
+    margin: 0 auto;
+    line-height: 25px;
+    font-size: 16px;
+    padding-bottom: 30px;
+  }
+  .footerPartLeft img{
+    padding-left: 40px;
+  }
+  .footerPartLeft{
+    text-align: left;
+  }
+  .footerPartRight{
+    text-align: left;
+    padding-left: 50px;
+  }
+  .footerIcon {
+    text-align: left;
+    margin-right: 30px;
+    width: 100%;
+  }
+  .footerMenu ul {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .footerMenu ul li {
+    padding: 8px;
+  }
+  .footerMenu ul li a {
+    font-size: 14px;
+  }
+  .aRr p {
+    color: rgba(255, 255, 255, 0.6);
+    padding-top: 10px;
+  }
+  .fPartBottom {
+    padding-top: 25px;
+  }
+  .fPartTop {
+    padding-bottom: 45px;
+  }
+  /* footer part end */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* nav part start */
+  .navbar-toggler i {
+    color: #5e3bee;
+  }
+  .nav-item {
+    border-bottom: 1px solid rgba(197, 197, 197, 0.26);
+  }
+  /* nav part end */
+  /* banner part start */
+  .bannerPartLeft {
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .bannerPartLeft h1 {
+    font-size: 44px;
+    line-height: 64px;
+    color: #333333;
+    font-weight: 700;
+    padding: 0;
+  }
+  .bannerPartLeft a {
+    margin-top: 15px;
+  }
+  .bannerPartRight img {
+    position: relative;
+    right: 20px;
+  }
+  /* banner part end */
+  /* counter part start */
+  .w50 {
+    width: 50%;
+  }
+  .counterItem{
+    padding-top: 30px;
+  }
+
+  #counterPart{
+    margin: 0;
+    padding: 0;
+  }
+  /* counter part end */
+  /* service part start */
+  #servicesPart {
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  .serviceText h2 {
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.5%;
+    font-weight: 600;
+  }
+  .serviceText p {
+    padding: 0;
+  }
+  .servicesItem {
+    margin-bottom: 30px;
+  }
+  /* service part end */
+  /* experience part start */
+  #experience {
+    padding: 70px 0;
+  }
+  .experienceText {
+    text-align: center;
+  }
+  .experienceText h2 {
+    width: 400px;
+    margin: 0 auto;
+  }
+  .experienceText p {
+    padding: 0 60px 15px 60px;
+  }
+  /* experience part end */
+  /* clintPart start */
+  #clintPart {
+    margin-top: 0;
+  }
+  #clintPart .container .row .col-lg-3 img {
+    width: 180px;
+    margin-left: 60px;
+  }
+  .clintPartImg {
+    padding-bottom: 20px;
+  }
+  #clintPart {
+    margin: 50px 0;
+  }
+  /* clintPart end */
+  /* portfolio part start */
+  .portfolioPartLeft {
+    text-align: center;
+  }
+  .portfolioPartLeft h2 {
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+  }
+  .portfolioPartRight p {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.534);
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    padding-left: 0;
+    width: 500px;
+    margin: 0 auto;
+  }
+  .portfolioPartItem {
+    padding: 0;
+  }
+  /* portfolio part end */
+  /* rating part start */
+  .ratingPart {
+    margin-top: 20px;
+  }
+  .ratingPartText {
+    margin: 0;
+    padding-top: 80px;
+  }
+  .ratingPartItem {
+    padding: 25px;
+  }
+  .authorName {
+    padding: 0;
+  }
+  .authorName h5 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .authorName h6 {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .ratingPartItem {
+    margin-bottom: 30px;
+  }
+  .ratingPartText h2 {
+    font-size: 34px;
+  }
+  /* rating part end */
+  /* connectPart part start */
+  .connectPart {
+    padding: 50px 0;
+    margin: 0;
+  }
+  .connectPart h2 {
+    font-size: 38px;
+    line-height: 52px;
+    font-weight: 600;
+    width: 90%;
+  }
+  /* connectPart part end */
+  /* footer part start */
+    #footer {
+    width: 95%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .footerPartLeft p {
+    width: 70%;
+    margin: 0 auto;
+    line-height: 25px;
+    font-size: 16px;
+    padding-bottom: 30px;
+  }
+  .footerIcon {
+    text-align: center;
+    margin-left: 30px;
+  }
+  .footerMenu ul {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .footerMenu ul li {
+    padding: 8px;
+  }
+  .footerMenu ul li a {
+    font-size: 16px;
+    padding: 0 15px;
+  }
+  .aRr p {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .fPartBottom {
+    padding-top: 25px;
+  }
+  .fPartTop {
+    padding-bottom: 45px;
+  }
+  /* footer part end */
+}
+
+
+
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* nav part start */
+  .navbar-toggler i {
+    color: #5e3bee;
+  }
+  .nav-item {
+    border-bottom: 1px solid rgba(197, 197, 197, 0.26);
+  }
+  /* nav part end */
+
+  /* banner part start */
+  .bannerPartLeft {
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .bannerPartLeft h1 {
+    font-size: 44px;
+    line-height: 64px;
+    color: #333333;
+    font-weight: 700;
+    padding: 0;
+  }
+  .bannerPartLeft a {
+    margin-top: 15px;
+  }
+  .bannerPartRight img {
+    position: relative;
+    right: 20px;
+  }
+  /* banner part end */
+
+  /* counter part start */
+  .w50 {
+    width: 50%;
+  }
+  #counterPart {
+    padding: 0;
+  }
+  /* counter part end */
+
+  /* service part start */
+  #servicesPart {
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  .serviceText h2 {
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.5%;
+    font-weight: 600;
+  }
+  .serviceText p {
+    padding: 0;
+  }
+  .servicesItem {
+    margin-bottom: 30px;
+  }
+  /* service part end */
+
+  /* experience part start */
+  #experience {
+    padding: 0;
+  }
+  .experienceText {
+    text-align: center;
+  }
+  .experienceText h2 {
+    width: 270px;
+    margin: 0 auto;
+  }
+  .experienceText p {
+    padding-bottom: 15px;
+  }
+  .experienceText a {
+    margin-bottom: 70px;
+  }
+  /* experience part end */
+
+  /* clintPart start */
+  #clintPart {
+    margin-top: 0;
+  }
+  #clintPart .container .row .col-lg-3 img {
+    width: 130px;
+  }
+  .clintPartImg {
+    padding-bottom: 20px;
+  }
+  #clintPart {
+    margin: 50px 0;
+  }
+  /* clintPart end */
+
+  /* portfolio part start */
+  .portfolioPartLeft {
+    text-align: center;
+  }
+  .portfolioPartLeft h2 {
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+  }
+  .portfolioPartRight p {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.534);
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    padding-left: 0;
+  }
+  .portfolioPartItem {
+    padding: 0;
+  }
+  /* portfolio part end */
+
+  /* rating part start */
+  .ratingPart {
+    margin-top: 20px;
+  }
+  .ratingPartText {
+    margin: 0;
+    padding-top: 80px;
+  }
+  .ratingPartItem {
+    padding: 25px;
+  }
+  .authorName {
+    padding: 0;
+  }
+  .authorName h5 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .authorName h6 {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .ratingPartItem {
+    margin-bottom: 30px;
+  }
+  .ratingPartText h2 {
+    font-size: 34px;
+  }
+  /* rating part end */
+
+  /* connectPart part start */
+  .connectPart {
+    padding: 50px 0;
+    margin: 0;
+  }
+  .connectPart h2 {
+    font-size: 38px;
+    line-height: 52px;
+    font-weight: 600;
+    width: 100%;
+  }
+  /* connectPart part end */
+
+  /* footer part start */
+  #footer {
+    width: 95%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .footerPartLeft p {
+    width: 280px;
+    margin: 0 auto;
+    line-height: 25px;
+    font-size: 16px;
+    padding-bottom: 30px;
+  }
+  .footerIcon {
+    text-align: center;
+    margin-left: 30px;
+  }
+  .footerMenu ul {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .footerMenu ul li {
+    padding: 8px;
+  }
+  .footerMenu ul li a {
+    font-size: 12px;
+  }
+  .aRr p {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .fPartBottom {
+    padding-top: 25px;
+  }
+  .fPartTop {
+    padding-bottom: 45px;
+  }
+  /* footer part end */
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  /* nav part start */
+  .navbar-toggler i {
+    color: #5e3bee;
+  }
+  .nav-item {
+    border-bottom: 1px solid rgba(197, 197, 197, 0.26);
+  }
+  /* nav part end */
+
+  /* banner part start */
+  .bannerPartLeft {
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .bannerPartLeft h1 {
+    font-size: 44px;
+    line-height: 64px;
+    color: #333333;
+    font-weight: 700;
+    padding: 0;
+  }
+  .bannerPartLeft a {
+    margin-top: 15px;
+  }
+  .bannerPartRight img {
+    position: relative;
+    right: 20px;
+  }
+  /* banner part end */
+
+  /* counter part start */
+  .w50 {
+    width: 50%;
+  }
+  #counterPart {
+    padding: 0;
+  }
+  /* counter part end */
+
+  /* service part start */
+  #servicesPart {
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  .serviceText h2 {
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.5%;
+    font-weight: 600;
+  }
+  .serviceText p {
+    padding: 0;
+  }
+  .servicesItem {
+    margin-bottom: 30px;
+  }
+  /* service part end */
+
+  /* experience part start */
+  #experience {
+    padding: 0;
+  }
+  .experienceText {
+    text-align: center;
+  }
+  .experienceText h2 {
+    width: 270px;
+    margin: 0 auto;
+  }
+  .experienceText p {
+    padding-bottom: 15px;
+  }
+  .experienceText a {
+    margin-bottom: 70px;
+  }
+  /* experience part end */
+
+  /* clintPart start */
+  #clintPart {
+    margin-top: 0portfolio;
+  }
+  #clintPart .container .row .col-lg-3 img {
+    width: 130px;
+  }
+  .clintPartImg {
+    padding-bottom: 20px;
+  }
+  #clintPart {
+    margin: 50px 0;
+  }
+  /* clintPart end */
+
+  /* portfolio part start */
+  .portfolioPartLeft {
+    text-align: center;
+  }
+  .portfolioPartLeft h2 {
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+  }
+  .portfolioPartRight p {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.534);
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    padding-left: 0;
+  }
+  .portfolioPartItem {
+    padding: 0;
+  }
+  /* portfolio part end */
+
+  /* rating part start */
+  .ratingPart {
+    margin-top: 20px;
+  }
+  .ratingPartText {
+    margin: 0;
+    padding-top: 80px;
+  }
+  .ratingPartItem {
+    padding: 25px;
+  }
+  .authorName {
+    padding: 0;
+  }
+  .authorName h5 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .authorName h6 {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .ratingPartItem {
+    margin-bottom: 30px;
+  }
+  .ratingPartText h2 {
+    font-size: 34px;
+  }
+  /* rating part end */
+
+  /* connectPart part start */
+  .connectPart {
+    padding: 50px 0;
+    margin: 0;
+  }
+  .connectPart h2 {
+    font-size: 38px;
+    line-height: 52px;
+    font-weight: 600;
+    width: 100%;
+  }
+  /* connectPart part end */
+
+  /* footer part start */
+  #footer {
+    width: 95%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .footerPartLeft p {
+    width: 280px;
+    margin: 0 auto;
+    line-height: 25px;
+    font-size: 16px;
+    padding-bottom: 30px;
+  }
+  .footerIcon {
+    text-align: center;
+    margin-left: 30px;
+  }
+  .footerMenu ul {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .footerMenu ul li {
+    padding: 8px;
+  }
+  .footerMenu ul li a {
+    font-size: 12px;
+  }
+  .aRr p {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .fPartBottom {
+    padding-top: 25px;
+  }
+  .fPartTop {
+    padding-bottom: 45px;
+  }
+  /* footer part end */
+}
