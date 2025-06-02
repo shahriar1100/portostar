@@ -296,8 +296,9 @@
     margin-top: 0;
   }
   #clintPart .container .row .col-lg-3 img {
-    width: 180px;
-    margin-left: 60px;
+    width: 70%;
+    margin-left: 40px;
+    padding-bottom: 20px;
   }
   .clintPartImg {
     padding-bottom: 20px;
@@ -504,7 +505,9 @@
     margin-top: 0;
   }
   #clintPart .container .row .col-lg-3 img {
-    width: 130px;
+    width: 90%;
+    margin-left: 10px;
+    padding-bottom: 20px;
   }
   .clintPartImg {
     padding-bottom: 20px;
@@ -707,8 +710,8 @@
     margin-top: 0portfolio;
   }
   #clintPart .container .row .col-lg-3 img {
-    width: 130px;
-    margin-left: 40px;
+    width: 90%;
+    margin-left: 10px;
   }
   .clintPartImg {
     padding-bottom: 20px;
