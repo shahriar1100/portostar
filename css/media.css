@@ -687,6 +687,9 @@
   .experienceText {
     text-align: center;
   }
+  .experienceText h4{
+    padding-top: 30px;
+  }
   .experienceText h2 {
     width: 270px;
     margin: 0 auto;
@@ -705,6 +708,7 @@
   }
   #clintPart .container .row .col-lg-3 img {
     width: 130px;
+    margin-left: 40px;
   }
   .clintPartImg {
     padding-bottom: 20px;
